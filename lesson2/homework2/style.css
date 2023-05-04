@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.table {
+  margin: 10px;
+}
+
+.title {
+background-color: green;
+color: #fff;
+padding: 5px;
+}
+
+.image {
+  padding: 5px;
+  border-radius: 10px;
+}
